@@ -1,7 +1,7 @@
-"""This is a very simple function in python script in dev branch"""
+"""This is a very simple function in python script in V1.0 branch"""
 
 
-def print_func(msg):
+def print_func_test(msg):
     """
     This is a simple function that prints a message
 
@@ -12,4 +12,4 @@ def print_func(msg):
     print(msg)
 
 
-print_func('Hello World branch dev')
+print_func_test('Hello World branch V1.0')
